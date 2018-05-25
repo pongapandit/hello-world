@@ -1,2 +1,2 @@
 # hello-world
-Maintaining the time honured tradition of programmers.
+Maintaining the time honoured tradition of programmers.
